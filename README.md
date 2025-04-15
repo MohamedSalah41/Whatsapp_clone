@@ -19,7 +19,6 @@
   <img src="https://github.com/MohamedSalah41/Whatsapp_clone/blob/main/screenshots/4.jpg" width=30% height=30%/>
   <img src="https://github.com/MohamedSalah41/Whatsapp_clone/blob/main/screenshots/5.jpg" width=30% height=30%/>
    <img src="https://github.com/MohamedSalah41/Whatsapp_clone/blob/main/screenshots/6.jpg" width=30% height=30%/>
-  <img src="https://github.com/MohamedSalah41/Whatsapp_clone/blob/main/screenshots/7.jpg" width=30% height=30%/>
 
 </kbd>
 
