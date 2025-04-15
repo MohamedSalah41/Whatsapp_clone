@@ -1,10 +1,4 @@
-# Apna Chat (We Chat)
 
-![Status](https://img.shields.io/badge/Status-Active-brightgreen)
-![Dart](https://img.shields.io/badge/dart-100%25-brightgreen)
-![Flutter](https://img.shields.io/badge/Flutter-Cross%20Platform-blue)
-
-**Simple, Decent & Feature-Rich Chatting Application.**
 
 ---
 
@@ -34,8 +28,6 @@
 - Message read status.
 - Message delete & edit features.
 - Message notifications (push notifications).
-- AI Chat Bot integration (**Google Gemini**).
 - Sleek UI with new Material Widgets.
-- **And much more...**
 
 
