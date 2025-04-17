@@ -31,3 +31,6 @@
 - Sleek UI with new Material Widgets.
 
 
+## team
+- [**Mohamed Salah**](https://github.com/MohamedSalah41): Firebase backend development, API design, and database setup.
+- [**Kareem Amer**](https://github.com/Kareem-Amer1): Flutter frontend development, UI/UX design, and app integration.
