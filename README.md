@@ -1,8 +1,4 @@
 
-
----
-
-
 ## 📸 Screenshots:
 
 **Actual app looks even better! 😃**
